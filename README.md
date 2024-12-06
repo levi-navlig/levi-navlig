@@ -14,8 +14,10 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
 ---
 
 ## 📊 **Minhas Estatísticas no GitHub**  
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=levi-navlig&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Levi" width="48%" />  
+No Momento essa aqui vai estar econdida kkkkkk
+-->
 <img src="https://streak-stats.demolab.com?user=levi-navlig&theme=radical" alt="Contribuições em sequência" width="48%" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-navlig&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%" />  
