@@ -24,6 +24,7 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-navlig&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%" />  
 </div>
+
 ---
 
 ## 🌟 **Vamos nos conectar!**  
