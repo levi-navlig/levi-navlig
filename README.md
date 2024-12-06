@@ -14,23 +14,26 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
 ---
 
 ## 📊 **Minhas Estatísticas no GitHub**  
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=levi-navlig&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Levi" width="48%" />  
-No Momento essa aqui vai estar econdida kkkkkk
--->
-<img src="https://streak-stats.demolab.com?user=levi-navlig&theme=radical" alt="Contribuições em sequência" width="48%" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-navlig&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%" />  
-
+<div style="text-align: center;">
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=levi-navlig&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Levi" width="48%" />  
+  No Momento essa aqui vai estar econdida kkkkkk
+  -->
+  
+  <img src="https://streak-stats.demolab.com?user=levi-navlig&theme=radical" alt="Contribuições em sequência" width="48%" />  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-navlig&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%" />  
+</div>
 ---
 
 ## 🌟 **Vamos nos conectar!**  
 
 🌐 **Me encontre nas redes sociais:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levi-navlig)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navlig_levi)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/navlig_levi)  
-
+<div style="text-align: center;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levi-navlig)  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navlig_levi)  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/navlig_levi)  
+</div>
 📫 **Entre em contato:**  
 - Email: *levinavlig1227@gmail.com*  
 
