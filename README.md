@@ -1,7 +1,3 @@
-Aqui está o **README.md** ajustado, com um emoji mais apropriado e um tom inicial mais sério:  
-
----
-
 # 🚀 Levi Navlig  
 
 **Olá! Sou Levi Navlig,** um desenvolvedor em crescimento e estudante do 4° ano do ensino médio técnico em Informática no **IFRN**. Atualmente, estou focado no desenvolvimento **Full Stack**, estudando e aprimorando minhas habilidades em **React** e outras tecnologias de Frontend.  
