@@ -14,7 +14,7 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
 ---
 
 ## 📊 **Minhas Estatísticas no GitHub**  
-<div style="text-align: center;">
+<div style="text-align: center;, height: 200px;">
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=levi-navlig&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Levi" width="48%" />  
   No Momento essa aqui vai estar econdida kkkkkk
@@ -29,11 +29,10 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
 ## 🌟 **Vamos nos conectar!**  
 
 🌐 **Me encontre nas redes sociais:**  
-<div style="text-align: center;">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levi-navlig)  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navlig_levi)  
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/navlig_levi)  
-</div>
+  
 📫 **Entre em contato:**  
 - Email: *levinavlig1227@gmail.com*  
 
