@@ -8,7 +8,7 @@ Gosto de aprender experimentando e agarrando oportunidades, sempre buscando cres
 
 ## 🛠️ **Tecnologias que domino**  
 - **Linguagens:** Python, JavaScript, HTML, CSS  
-- **Frameworks:** React (em estudo)  
+- **Frameworks:** React, Adonis, node (ambas em estudo)  
 - **Áreas de interesse:** Frontend, Backend, e projetos criativos em TI  
 
 ---
